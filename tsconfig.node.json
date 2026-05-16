@@ -6,6 +6,7 @@
     "module": "esnext",
     "types": ["node"],
     "skipLibCheck": true,
+    "types": ["@tailwindcss/vite"],
 
     /* Bundler mode */
     "moduleResolution": "bundler",
